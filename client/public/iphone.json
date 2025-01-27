@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "https://www.apple.com/iphone-13",
+      "product_name": "iPhone 13",
+      "description_id": 1,
+      "product_brief_description": "The iPhone 13 offers a sleek design, an A15 Bionic chip, and improved battery life with dual-camera setup.",
+      "product_description": "With a 6.1-inch OLED display and advanced camera features, the iPhone 13 delivers exceptional performance for everyday use and professional-grade photos.",
+      "product_img": "https://www.apple.com/v/iphone-16/d/images/overview/apple-intelligence/apple_intelligence_endframe__ewm1810mnb0i_xlarge.jpg",
+      "product_link": "https://www.apple.com/iphone-13",
+      "price_id": 1,
+      "starting_price": "699",
+      "price_range": "699-999"
+    },
+    {
+      "product_id": 2,
+      "product_url": "https://www.apple.com/iphone-14-pro",
+      "product_name": "iPhone 14 Pro",
+      "description_id": 2,
+      "product_brief_description": "The iPhone 14 Pro features a 48MP main camera, 5G connectivity, and the powerful A16 Bionic chip.",
+      "product_description": "Capture every moment with professional-grade photography, enjoy faster processing speeds, and experience a stunning 120Hz ProMotion display on the iPhone 14 Pro.",
+      "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MA7E4?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1723930332796",
+      "product_link": "https://www.apple.com/iphone-14-pro",
+      "price_id": 2,
+      "starting_price": "999",
+      "price_range": "999-1499"
+    },
+    {
+      "product_id": 3,
+      "product_url": "https://www.apple.com/iphone-se",
+      "product_name": "iPhone SE (2022)",
+      "description_id": 3,
+      "product_brief_description": "The iPhone SE combines classic design with modern performance, powered by the A15 Bionic chip.",
+      "product_description": "The iPhone SE offers a compact design with the latest chip technology, allowing you to enjoy fast performance and a 12MP camera at an affordable price.",
+      "product_img": "https://www.apple.com/v/iphone/home/ca/images/overview/consider_modals/innovation/modal_second__e1xvbvxfc5oy_large.jpg",
+      "product_link": "https://www.apple.com/iphone-se",
+      "price_id": 3,
+      "starting_price": "429",
+      "price_range": "429-549"
+    }
+  ]
+}
